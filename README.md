@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning * DSA and CPP *
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/dhirajdarakhe)**
-- 
 <hr>
 
 ## 🚀 Languages and Tools:
