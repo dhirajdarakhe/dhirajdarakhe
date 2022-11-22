@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning * DSA and CPP *
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/dhirajdarakhe)**
-- My Mobile Application Project  **[PICT SPORTS](https://play.google.com/store/apps/details?id=com.pictsport.app&pli=1)**
-- COMPETATIVE PROGRAMMING [  **[CodeForces](https://codeforces.com/profile/DhirajD)** ]
+- 📲 My Mobile Application Project  **[PICT SPORTS](https://play.google.com/store/apps/details?id=com.pictsport.app&pli=1)**
+- 👨‍💻 COMPETATIVE PROGRAMMING [  **[CodeForces](https://codeforces.com/profile/DhirajD)** , **[CodeChef] (https://www.codechef.com/users/dhira_39)**,  **[LeetCode] (https://leetcode.com/dhirajdarakhe03/)** ]
 <hr>
 
 ## 🚀 Languages and Tools:
